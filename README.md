@@ -1,8 +1,5 @@
 ### Hello
 
-I dig computers, part-time code and full-time learn.
+My name is Georgios (also spelled Yorgos, pronounced Yor-ghos). I dig computers, part-time code and full-time learn.
 
-I am a PhD student at Northeastern University, Boston. My research interest lies in securing systems that incorporate Artificial Intelligence as a core component within a larger pipeline.
-
-Check out my collaborators **and** (proudly!) very good friends; we have worked together in most of my projects. Alphabetically:
-- [Anastasios Toumazatos](https://github.com/toumazatos "Anastasios Toumazatos"), [Anshuman Suri](https://github.com/iamgroot42 "Anshuman Suri"), [Evgenios Gkritsis](https://github.com/eGkritsis "Evgenios Gkritsis"), [Fotios Bistas](https://github.com/FotiosBistas "Fotios Bistas"), [Nikos Christodoulou](https://github.com/nikos-christodoulou "Nikos Christodoulou")
+I am a PhD student at Northeastern University, Boston. My work spans Trustworthy AI and Distributed & Decentralized Machine Learning systems. My research interest lies in securing systems that incorporate Artificial Intelligence as a core component within a larger pipeline.
